@@ -1,5 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/*# sourceMappingURL=globals.css.map */
+html, body {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}/*# sourceMappingURL=globals.css.map */
